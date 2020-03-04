@@ -20,6 +20,8 @@ using TestTokenApp;
 
 namespace TestTokenApp
 {
+    // https://wildermuth.com/2017/08/19/Two-AuthorizationSchemes-in-ASP-NET-Core-2
+    // this will help with a lot of issues ^^^^^
     public class Startup
     {
         public Startup(IConfiguration configuration)

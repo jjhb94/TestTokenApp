@@ -17,4 +17,8 @@
     <PackageReference Include="X.PagedList.Mvc" Version="7.9.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Postman_Config\" />
+  </ItemGroup>
+
 </Project>
